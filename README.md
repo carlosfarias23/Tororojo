@@ -1,2 +1,3 @@
 # Tororojo 
 cambios en mi readme
+EN LINEA ALGUIEN MODIFICIO ALGO QUE NOTENGO LGOCAL
